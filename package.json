@@ -1,0 +1,22 @@
+{
+  "name": "case03",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "a1": "node index.js a=1",
+    "a2": "nodemon index.js a=2",
+    "server": "node idex.js a=3",
+    "start": "node index.js a=4"
+  },
+  "keywords": [],
+  "author": "Maggie",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "uniq": "^1.0.1"
+  },
+  "devDependencies": {
+    "sass": "^1.79.2"
+  }
+}
